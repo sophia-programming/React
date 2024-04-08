@@ -47,7 +47,7 @@ Reactの概念（コンポーネントベースのUIライブラリであるこ�
 ・一度使ったコンポーネントは再利用して別のサイト・アプリケーションでも利用可能
 ・ユーザーの操作で頻繁に表示を変更するようなアプリケーションにおいては、仮想DOMによる軽快な動作がメリットとして作用
 ⇨今回のハッカソンではタイピングゲームなのでReactが良さそう
-https://qiita.com/seira/items/6767e222890c9890ecb9
+https://qiita.com/seira/items/6767e222890c9890ecb9 
 https://and-engineer.com/articles/YclsBhAAACMAtlJ_
 
 
@@ -110,9 +110,9 @@ React.memo、useCallback、useMemoを使ったパフォーマンスの最適化�
 
 
 <プロジェクト編>
-1. 簡単なアプリケーションの開発
+1. 簡単なアプリケーションの開発　
 学んだ知識を活かして、簡単なTodoリストやブログアプリなどを作成します。
 
 参考youtube:
-https://www.youtube.com/watch?v=nRCNL9T3J98
-https://www.youtube.com/watch?v=uuAdVs7sbAs
+https://www.youtube.com/watch?v=nRCNL9T3J98 ✅
+https://www.youtube.com/watch?v=uuAdVs7sbAs ✅
