@@ -32,7 +32,7 @@ https://udemy.benesse.co.jp/development/system/javascript-framework.html
 
 
 ＜Reactを学ぶ際に役立つ基本的な内容をタスク化。＞
-<基礎編>
+<基礎編>　✅
 1. Reactとは何か？
 ・Facebook社が開発したWebサイト上のUIを構築するためのJavaScriptライブラリ。
 ・動的なアプリのUIを構築
@@ -51,7 +51,7 @@ https://qiita.com/seira/items/6767e222890c9890ecb9
 https://and-engineer.com/articles/YclsBhAAACMAtlJ_
 
 
-2. 環境設定
+2. 環境設定　✅
 ①Node.jsのインストール
 ②Webstormのインストール(JetBrainsのReact開発用IDE)
 ③Create React Appを使ったReactプロジェクトのセットアップ。
@@ -59,19 +59,19 @@ https://and-engineer.com/articles/YclsBhAAACMAtlJ_
 3. JSXの基礎
 JSXの構文とそれがどのようにJavaScriptに変換されるかを学びます。
 
-4. コンポーネントとprops
+4. コンポーネントとprops　✅
 関数コンポーネントとクラスコンポーネントの作成方法。
 propsを使ったデータの受け渡し。
 
 
-5. ステート管理
+5. ステート管理　✅
 コンポーネントのstateの使い方。
 useStateフックの基礎。
 
-6. イベント処理
+6. イベント処理　✅
 ボタンクリックやフォームの送信などの基本的なイベント処理。
 
-7. 条件付きレンダリング
+7. 条件付きレンダリング　✅
 条件によって異なるコンポーネントを表示する方法。
 
 8. リストとキー
@@ -83,7 +83,7 @@ useStateフックの基礎。
 クラスコンポーネントのライフサイクルメソッド。
 useEffectフックによるライフサイクルの管理。
 
-2. フックの応用
+2. フックの応用　✅
 useEffect、useContext、useReducerなどのフックの使い方。
 
 3. コンテキストAPI
@@ -109,9 +109,9 @@ React.memo、useCallback、useMemoを使ったパフォーマンスの最適化�
 スタイリング（CSS Modules、styled-components）。
 
 
-<プロジェクト編>
+<プロジェクト編> ✅
 1. 簡単なアプリケーションの開発　
-学んだ知識を活かして、簡単なTodoリストやブログアプリなどを作成します。
+学んだ知識を活かして、簡単なTodoリストやブログアプリなどを作成します。 
 
 参考youtube:
 https://www.youtube.com/watch?v=nRCNL9T3J98 ✅
