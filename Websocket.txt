@@ -1,0 +1,7 @@
+Websocket:
+ユーザーのブラウザとサーバー間で対話的な通信セッションを開くことができる技術。
+
+WebSocketを構築するためにはWebSocket（）コンストラクターを使用
+
+
+https://developer.mozilla.org/ja/docs/Web/API/WebSockets_API
